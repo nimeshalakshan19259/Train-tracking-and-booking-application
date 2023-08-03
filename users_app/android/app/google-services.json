@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "473560548035",
+    "firebase_url": "https://railbook-28281-default-rtdb.firebaseio.com",
+    "project_id": "railbook-28281",
+    "storage_bucket": "railbook-28281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473560548035:android:a9fb6df65ed044890a5876",
+        "android_client_info": {
+          "package_name": "com.Railbook.traindriversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473560548035-r9n2pdg6vf60t9t71249fjfobki5nfrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Zcmea6frsksq0vhDlgTLhVHQdS2OGY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473560548035-r9n2pdg6vf60t9t71249fjfobki5nfrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473560548035:android:cabbfc9efd339c230a5876",
+        "android_client_info": {
+          "package_name": "com.nimesharailbook.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473560548035-r9n2pdg6vf60t9t71249fjfobki5nfrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Zcmea6frsksq0vhDlgTLhVHQdS2OGY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473560548035-r9n2pdg6vf60t9t71249fjfobki5nfrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
